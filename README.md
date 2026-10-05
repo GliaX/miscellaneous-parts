@@ -7,6 +7,7 @@ Every component listed in this repository represents a localized engineering sol
 ## 📂 Repository Structure
 The repository is organized into independent, self-contained project directories.
 
+```
 .
 ├── 📁 infusion-pump-gear/             # Project 1: Syringe Pump Drivetrain Replacement
 │   ├── 📁 design-files/              # FreeCAD (.FCStd)
@@ -23,8 +24,7 @@ The repository is organized into independent, self-contained project directories
 │   └── 📄 README.md                   # Clinical testing history & risk mitigation protocol
 │
 └── 📄 README.md                      # This root registry overview documentation
-
----
+```
 
 ## 🛠️ Featured Registry Projects
 
