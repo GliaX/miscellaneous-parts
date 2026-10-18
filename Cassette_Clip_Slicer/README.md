@@ -1,7 +1,5 @@
 # 3D-Printed FUJI CR/Type C Cassette Slider Replacement (P/N 124536)
 
-⚠️ **WARNING: THIS MODEL IS CURRENTLY IN CLINICAL TESTING AND ACTIVE REFINEMENT.**
-
 ## 1. Project Overview
 This open-source medical hardware project addresses a critical clinical maintenance bottleneck: the mechanical failure and breakage of the plastic slider closure devices (**OEM Part Number: 124536**) utilized in **FUJI Fujifilm Type CR and Type C X-ray cassettes**.
 
@@ -43,8 +41,8 @@ Taking over from the baseline failure, a comprehensive engineering review was co
 3. **Spring Housing Expansion (Internal Clearance):** The internal bore cavity for the spring housing was enlarged to reduce excessive compression during operation, preventing premature spring fatigue and ensuring smooth mechanical travel.
 
 ### 🔬 Material Optimization & Shrinkage Calibration (PETG to ABS)
-* **The PETG Challenge:** Prototyping in PETG required intensive manual post-print processing, sanding, and filing (بردخة يدوية) to achieve smooth sliding movement. This introduced individual human error into the production line, causing severe geometric inconsistencies between parts and ruining batch replication.
-* **The ABS Solution:** Switching to **ABS** yielded highly uniform, smooth sliding surfaces directly off the print bed, completely eliminating the need for manual post-processing error.
+* **The PETG Challenge:** Prototyping in PETG required intensive manual post-print processing, sanding, and filing to achieve smooth sliding movement. This introduced individual human error into the production line, causing severe geometric inconsistencies between parts and ruining batch replication.
+* **The ABS Solution:** Switching to **ABS** yielded highly uniform, smooth sliding surfaces directly off the print bed, completely eliminating the need for manual post-processing.
 * **Printer Shrinkage Compensation:** To counter the high thermal contraction rate characteristic of ABS, the CAD file dimensions were precisely calibrated and expanded according to the specific metrics of the deployment 3D printer, successfully reaching exact OEM dimensions.
 
 ---
