@@ -29,7 +29,7 @@ The development of this component followed a structured, iterative engineering p
 
 ### 🔴 Baseline Inheritance (Version 1)
 * **Initial Status:** The project optimization began by inheriting an existing baseline CAD design file.
-* **Reference Source File:** **`Cassette_Clip_Nasser_ScrewHoleLength_right`** (located within the `Design_Files` directory).
+* **Reference Source File:** The project began using the initial source file, **Cassette_Clip_Nasser_ScrewHoleLength_right**, which has since been archived..
 * **Clinical Outcome:** This baseline model was originally printed in **PETG** and field-tested under continuous diagnostic load at Nasser Hospital, where it suffered catastrophic fracturing after **2 weeks** of usage.
 * **Identified Failures:** High sliding surface friction, material rigidity stress, and critical geometric deviations from the OEM part.
 
