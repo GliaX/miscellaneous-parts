@@ -23,6 +23,10 @@ The repository is organized into independent, self-contained project directories
 │   ├── 📁 Media/                      # Failure analysis and deployment photographs
 │   └── 📄 README.md                   # Clinical testing history & risk mitigation protocol
 │
+├── 📁 BloodPressure_Cuff_repair_kit/  # Project 3: Kit to manufacture and repair blood pressure cuffs
+│   ├── 📁 Design_Files/               # CAD source files
+│   └── 📁 Print_Files/                # Current version of the .stl
+|
 └── 📄 README.md                      # This root registry overview documentation
 ```
 
@@ -35,3 +39,7 @@ The repository is organized into independent, self-contained project directories
 ### 2. FUJI CR Cassette Slider Replacement (P/N 124536)
 * **Description:** A 3D-printed replica of the slider closure device used in FUJI Fujifilm Type CR and Type C X-ray cassettes to ensure secure locking and prevent critical reader damage.
 * **Documentation:** See the [Cassette_Clip_Slicer README](./Cassette_Clip_Slicer/README.md) for validation history and safety protocols.
+
+### 3. Manufacture and repair of blood pressure cuffs
+* **Description:** A set of 3D-printed fitting to repair tubs and repair or manufacture pressure bags of blood pressure cuffs.
+* **Documentation:** Needs to be written when more development and testing is done on this project.
